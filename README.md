@@ -8,7 +8,6 @@
 ### 📁 Cấu trúc thư mục
 
 ```plaintext
-VoCongDangKhoi_2311708/
 ├── class/          # File bytecode được cung cấp
 ├── source/         # Các class chính cần cài đặt (Knight, Paladin, Warrior, ...)
 ├── util/           # Các class tiện ích (Complex, Utility, TeamMaker, ...)
