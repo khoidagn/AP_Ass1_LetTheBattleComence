@@ -3,14 +3,13 @@
 ## 🔰 Thông tin chung
 - **Học phần:** Lập trình nâng cao (Advanced Programming - AP)
 - **Kỳ học:** HK242 - Trường Đại học Bách Khoa TP.HCM (HCMUT)
-- **Họ tên:** Võ Công Đăng Khôi    
 - **Đề bài:** Let the Battle Commence
 
 ## Cấu trúc thư mục
-|
+
 ├── class/          # File bytecode được cung cấp
-├── source/         # Các class chính cần cài đặt (Knight, Paladin, ...)
-├── util/           # Các class tiện ích (Complex, Utility, TeamMaker)
+├── source/         # Các class chính cần cài đặt (Knight, Paladin, Warrior, ...)
+├── util/           # Các class tiện ích (Complex, Utility, TeamMaker, ...)
 ├── Main.class      # Hàm main khởi chạy chương trình
 └── README.md       
 
