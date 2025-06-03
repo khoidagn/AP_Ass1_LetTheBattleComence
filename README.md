@@ -1,9 +1,9 @@
-# Bài Tập Lớn 1 - Lập Trình Nâng Cao (HK242)
+# Assignment 1: Let the Battle Commence
 
 ## 🔰 Thông tin chung
 - **Học phần:** Lập trình nâng cao (Advanced Programming - AP)
 - **Kỳ học:** HK242 - Trường Đại học Bách Khoa TP.HCM (HCMUT)
-- **Đề bài:** Let the Battle Commence
+- **Dự án:** Let the Battle Commence
 
 ### 📁 Cấu trúc thư mục
 
