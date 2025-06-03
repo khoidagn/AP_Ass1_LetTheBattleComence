@@ -5,13 +5,17 @@
 - **Kỳ học:** HK242 - Trường Đại học Bách Khoa TP.HCM (HCMUT)
 - **Đề bài:** Let the Battle Commence
 
-## Cấu trúc thư mục
+### 📁 Cấu trúc thư mục
 
+```plaintext
+VoCongDangKhoi_2311708/
 ├── class/          # File bytecode được cung cấp
 ├── source/         # Các class chính cần cài đặt (Knight, Paladin, Warrior, ...)
 ├── util/           # Các class tiện ích (Complex, Utility, TeamMaker, ...)
 ├── Main.class      # Hàm main khởi chạy chương trình
 └── README.md       
+```
+
 
 ## 📄 Mô tả bài toán
 Chương trình mô phỏng hệ thống chiến đấu giữa các nhân vật và quái vật theo quy tắc cho trước.  
